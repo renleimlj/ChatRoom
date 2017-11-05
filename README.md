@@ -23,6 +23,12 @@ ChatRoom in Martini
 
         go run main.go
 
-open your browser and inout `http://localhost:3000/`
+open your browser and input `http://localhost:3000/`
 
 ![](https://s1.ax1x.com/2017/11/04/0wxLd.png)
+
+![](https://s1.ax1x.com/2017/11/05/0geIJ.png)
+
+* shut down this ChatRoom
+
+![](https://s1.ax1x.com/2017/11/05/0guGR.png)
